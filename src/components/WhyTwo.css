@@ -1,0 +1,9 @@
+.card {
+    transition: transform 0.3s ease, background-color 0.1s ease 0.2s; /* Delay for color change */
+}
+
+.card:hover {
+    cursor: pointer;
+    transform: translateY(-10px);
+    background-color: #f8fc27; /* Color change delayed by 0.2s */
+}
