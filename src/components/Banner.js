@@ -11,8 +11,12 @@ const Banner = () => {
       data-bs-ride="true"
     >
       <div className="carousel-inner">
-        <div className="carousel-item active">
-          <img src={img1} className="d-block w-100" alt="..." />
+        <div className="carousel-item active ">
+          <img
+            src={img1}
+            className="d-block w-100 lg:h-full md:h-full h-[300px]"
+            alt="..."
+          />
         </div>
         <div className="carousel-item">
           <img src={img2} className="d-block w-100" alt="..." />

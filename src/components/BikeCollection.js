@@ -14,8 +14,8 @@ const BikeCollection = () => {
     <div className="mt-20">
       <section>
         <h2 className="text-center text-6xl  font-bold">About</h2>
-        <div className="lg:grid lg:grid-cols-2 md:grid md:grid-cols-2 flex flex-col  items-center p-5">
-          <p className="text">
+        <div className="bg-slate-600 lg:grid lg:grid-cols-2 md:grid md:grid-cols-2 flex flex-col  items-center p-3">
+          <p className="text-xl  text-white">
             Hi, my name is Prakash. I am a Website and App developer having more
             than one year of experience. For building websites I use React{" "}
             <FaReact style={reactStyle} /> , Angular{" "}

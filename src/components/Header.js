@@ -18,7 +18,7 @@ const Header = () => {
               to="/"
               className="hover:text-yellow-300 transition duration-300 no-underline"
             >
-              <img src={logo} className="w-36 md:w-56 lg:w-60" alt="Logo" />
+              <img src={logo} className="w-48 md:w-56 lg:w-60" alt="Logo" />
             </Link>
           </div>
           <nav className="hidden md:flex space-x-4">
