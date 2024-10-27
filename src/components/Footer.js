@@ -61,7 +61,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center">
               <a
-                href="https://www.instagram.com"
+                href="https://www.instagram.com/webniex/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-yellow-300 transition duration-300"
